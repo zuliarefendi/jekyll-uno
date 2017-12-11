@@ -11,7 +11,7 @@ berikut adalah tutorial untuk membuat foto menjadi line art. dan jangan lupa kun
 [http://fst.uin-suska.ac.id/](http://fst.uin-suska.ac.id/)
 [http://www.uin-suska.ac.id/](http://www.uin-suska.ac.id/)
 
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=gZIEDMNTZGE" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/v=gZIEDMNTZGE?" frameborder="0" allowfullscreen></iframe>
 
 
 
