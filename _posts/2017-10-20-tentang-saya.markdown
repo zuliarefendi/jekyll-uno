@@ -19,4 +19,4 @@ Selain Program Studi Sistem Informasi, pada fakultas sains dan teknologi ini ter
 	<li>Sistem Informasi</li>
 	<li>Matematika</li></ol>
 
-	untuk info lebih lanjut kunjungi [http://fst.uin-suska.ac.id/](http://fst.uin-suska.ac.id/)
+untuk info lebih lanjut kunjungi [http://fst.uin-suska.ac.id/](http://fst.uin-suska.ac.id/)
