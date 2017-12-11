@@ -6,7 +6,7 @@ tags:
   - saya
 ---
 
-Nama Saya Zuliar Efendi, Mahasiswa S1 Sistem Informasi, Fakultas Sains dan Teknologi Universitas Islam Negeri Sultan Syarif Kasim Riau yang sekarang memasuki semester 7 yang masih aktif saat ini
+Nama Saya Zuliar Efendi, Mahasiswa S1 Sistem Informasi, Fakultas Sains dan Teknologi Universitas Islam Negeri Sultan Syarif Kasim Riau [(http://sif.uin-suska.ac.id/)](http://sif.uin-suska.ac.id/) yang sekarang memasuki semester 7 yang masih aktif saat ini
 
 ## Sistem Informasi
 pada program Studi Sistem Informasi UIN SUSKA Riau, terdapat dua fokus utama yaitu Manajemen dan Rekayasa Sistem Informasi. untuk info lebih lanjut bisa kunjungi websitenya yaitu  [http://sif.uin-suska.ac.id/](http://sif.uin-suska.ac.id/)
